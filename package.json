@@ -1,0 +1,20 @@
+{
+  "name": "github_account",
+  "version": "1.0.0",
+  "description": "Simple application to view Github accounts profile and their starred repos. ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Jasmin Luka",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
