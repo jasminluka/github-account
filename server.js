@@ -31,7 +31,7 @@ app.get('/user/signin/callback', async (req, res) => {
       }
     });
 
-    res.redirect(`http://localhost:3000?${data}`);
+    res.redirect(`https://github-account.herokuapp.com?${data}`);
   }
   catch (err) {
     console.log(err);
