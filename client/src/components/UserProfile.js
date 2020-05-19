@@ -96,7 +96,7 @@ const UserProfile = () => {
       <h1 className="info">Hello Hackers</h1>
       <form>
         <div className="form-group">
-          <label htmlFor="username">Username</label>
+          <label htmlFor="username">Search by username</label>
           <input
             type="text"
             className="form-control"
