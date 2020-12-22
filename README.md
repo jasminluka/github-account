@@ -1,6 +1,8 @@
 # Github Account
 > Simple App to show your Github profile info with public and private repos, also search for other users public info.
 
+Live https://github-account.herokuapp.com/
+
 ## Install Dependencies
 Install dependencies on project directory, run:
 
